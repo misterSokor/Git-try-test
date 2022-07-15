@@ -5,5 +5,12 @@ GOOD EVENING (from branch master)
 
 SOME CHANGEs
 
+<<<<<<< HEAD
 GOOD BY, THAT IS USER 2
+=======
+
+SOME NEW FEATURE FROM USER 1
+
+LINE FROM USER 1 - LESSON PRACTICE REBASE
+>>>>>>> master
 
