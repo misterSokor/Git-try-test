@@ -4,14 +4,8 @@ Line from USER2 again CHECK
 GOOD EVENING (from branch master)
 
 SOME CHANGEs
-<<<<<<< HEAD
- 
 
-SOME NEW FEATURE FROM USER 1
-
-LINE FROM USER 1 - LESSON PRACTICE REBASE
-=======
 
 GOOD BY, THAT IS USER 2
->>>>>>> df47295e7fb7bec2531f92c704bdece0b0aa2b68
+
 
